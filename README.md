@@ -1,1 +1,2 @@
-# admin-panel-laravel-vue
+php artisan vue-i18n:generate 
+для локализации
