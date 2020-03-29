@@ -1,0 +1,4 @@
+*
+!public/
+!/logo/test.jpg
+!.gitignore
